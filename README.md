@@ -1,7 +1,20 @@
-### Hi there 👋
+<h1>Hi, I'm Corey! </h1>
+
+<h2>👨‍💻 Cloud Projects:</h2>
+
+
+
+<h2>Certifications</h2>
+<br>•	CCNA - Cisco Certified Network Associate</br>
+<br>•	AZ-104 Microsoft Azure Administrator</br>
+<br>•	AZ-900 Microsoft Azure Fundamentals</br>
+<br>•	CompTIA Security+</br>
+<br>•	CompTIA A+</br>
+
+
 
 <!--
-**Corey-Solomon/Corey-Solomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
