@@ -13,16 +13,9 @@
 <br>•	CompTIA Security+</br>
 <br>•	CompTIA A+</br>
 
-As the goal of these courses is to help get you up to speed on Bash. The next step after completing the videos is to follow a tutorial! Here are a few of our favorites:
-
-- [Quickstart for Bash in Azure Cloud Shell](https://aka.ms/QuickStartForBashAzure1)
-- [Learn to use Bash with the Azure CLI](https://aka.ms/BashWithAzureCLI1)
-- [Create a Linux virtual machine in Azure](https://aka.ms/LinuxVirtualMachineAzure1)
-- [Learn more about GitHub Codespaces Monthly Free Tier](https://aka.ms/GitHubCodespacesBilling1)
-
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Corey-Solomon/Corey-Solomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
