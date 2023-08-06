@@ -4,7 +4,7 @@
 
 - [Azure Terraform Infrastructure Provision](https://github.com/Corey-Solomon/Azure-Terraform-Infrastructure-Provision)
 
-
+- [Azure Serverless Resume API](https://github.com/Corey-Solomon/serverless-resume-api)
 
 <h2>Certifications</h2>
 <br>•	CCNA - Cisco Certified Network Associate</br>
