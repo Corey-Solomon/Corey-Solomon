@@ -8,7 +8,8 @@
 
 <h2>Certifications</h2>
 <br>•	CCNA - Cisco Certified Network Associate</br>
-<br>•	AZ-104 Microsoft Azure Administrator</br>
+<br>•	AZ-700 Microsoft Azure Network Engineer Associate</br>
+<br>•	AZ-104 Microsoft Azure Administrator Associate</br>
 <br>•	AZ-900 Microsoft Azure Fundamentals</br>
 <br>•	CompTIA Security+</br>
 <br>•	CompTIA A+</br>
